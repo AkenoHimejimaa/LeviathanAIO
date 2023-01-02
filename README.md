@@ -1,6 +1,6 @@
 # LeviathanAIO
 
-</Supported champs (16)>
+</Supported champs (17)>
   - Ahri.
   - Blitzcrank.
   - Ezreal.
@@ -11,7 +11,10 @@
   - Kog'maw.
   - Lucian.
   - Nilah.
+  - Samira.
   - Senna.
+  - Twitch.
+  - Twisted Fate.
   - Viktor.
   - Xerath.
   - Yasuo.
