@@ -1,8 +1,9 @@
 # LeviathanAIO
 
-</Supported champs (17)>
+</Supported champs (18)>
   - Ahri.
   - Blitzcrank.
+  - Draven.
   - Ezreal.
   - Irelia.
   - Jinx.
