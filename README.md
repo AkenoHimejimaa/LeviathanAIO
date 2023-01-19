@@ -13,10 +13,12 @@
   - Kog'maw.
   - Lucian.
   - Nilah.
+  - Pyke.
   - Samira.
   - Senna.
   - Twitch.
   - Twisted Fate.
+  - Varus.
   - Viktor.
   - Xerath.
   - Yasuo.
@@ -25,6 +27,5 @@
 > Modified ENS Orbwalker.
 > Evade.
 > Activator.
-> Base Ult.
 
 DISCORD: https://discord.gg/wgphqMqdyr
