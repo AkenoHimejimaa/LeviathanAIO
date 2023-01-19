@@ -1,6 +1,6 @@
 # LeviathanAIO
 
-</Supported champs (19)>
+</Supported champs (21)>
   - Ahri.
   - Ashe.
   - Blitzcrank.
