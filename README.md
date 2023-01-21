@@ -1,6 +1,6 @@
 # LeviathanAIO
 
-</Supported champs (21)>
+</Supported champs (22)>
   - Ahri.
   - Ashe.
   - Blitzcrank.
@@ -19,6 +19,7 @@
   - Twitch.
   - Twisted Fate.
   - Varus.
+  - Vayne.
   - Viktor.
   - Xerath.
   - Yasuo.

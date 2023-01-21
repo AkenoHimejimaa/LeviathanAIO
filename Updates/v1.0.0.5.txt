@@ -1,0 +1,12 @@
+</Added>
+  - Simple Varus W logic (work better if u have long Q mode).
+  - Vayne added.
+  - Updated checker (should tell u if Leviathan had an update).
+
+</Fixed>
+  - Varus:
+    + Some Q cast bugs.
+  - Improve Kill steal logic for all champs.
+
+</Removed>
+  - Nothing.
