@@ -1,0 +1,16 @@
+</Added>
+  - Pyke Added.
+  - Varus Added.
+  - Updated SkinChanger to '13.1'.
+  - Exory Prediction.
+
+</Fixed>
+  - Ashe disable/enable spell farm.
+  - Ezreal spell data wrong.
+  - Leviathan logo now display on screen center
+    on all resolutions.
+  - Evade debugin.
+
+</Removed>
+  - Recall tracker.
+  - Base ult.
