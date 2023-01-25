@@ -1,0 +1,18 @@
+</Added>
+  - Akali.
+  - Anivia.
+  - Annie.
+  - Brand.
+  - New spells for spell timer.
+
+</Changes>
+  - Spell indicator (like Kalista/Twitch E dmg, Xerath/Varus Q     
+target, etc).
+  - Permashow menu and Notification menu now they have logos.
+  - Vayne: 2 new modes for E logic.
+  - Awareness:
+      + Lastposition circle can be disabled.
+  - Xertah: improve prediction.
+
+</Removed>
+  - Nothing.
