@@ -16,3 +16,13 @@ target, etc).
 
 </Removed>
   - Nothing.
+
+=================================================================================
+
+[Minor update]
+
+</Changes>
+  - Anivia: 
+      + Lasthit on non killable minions with E.
+      + Improve W logic.
+  - Kalista: Kalista casts E to chase the enemy when they are out of E range.
