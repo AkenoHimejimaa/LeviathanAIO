@@ -26,3 +26,8 @@ target, etc).
       + Lasthit on non killable minions with E.
       + Improve W logic.
   - Kalista: Kalista casts E to chase the enemy when they are out of E range.
+
+=================================================================================
+
+</Changes>
+  - Updates skins to 13.1B
