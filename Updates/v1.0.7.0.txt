@@ -1,0 +1,26 @@
+<UPDATE 1.0.7.0>
+
+</Added>
+  - Caitlyn.
+  - Cassiopeia.
+  - New HudTracker style (u can choose between v1 and v2).
+  - Activator:
+      + Emote spammer (send a emote when u get a kill).
+
+</Changes>
+  - Varus: improve W logic.
+  - Anivia: fixed lasthit.
+  - Yasuo: Fixed W blocking skillshots while dashing.
+  - Better draw predictions.
+  - Fixed Elder dragon timer.
+  - Awareness: 
+     + Gank alert line now change size.
+  - LOrbwalker:
+      + Improve last hit drawing.
+      + Added ground logic to drawing in AA range.
+  - All Champions:
+      + Custom thickness of circle render (Only for SharpDX mode).
+      + Custom Color for ranges.
+
+</Removed>
+  - Nothing.

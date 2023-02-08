@@ -1,6 +1,6 @@
 # LeviathanAIO
 
-</Supported champs (26)>
+</Supported champs (28)>
   - Ahri.
   - Akali.
   - Anivia.
@@ -8,6 +8,8 @@
   - Ashe.
   - Blitzcrank.
   - Brand.
+  - Caitlyn.
+  - Cassiopeia.
   - Draven.
   - Ezreal.
   - Irelia.
