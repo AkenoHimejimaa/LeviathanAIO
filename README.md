@@ -1,6 +1,6 @@
 # LeviathanAIO
 
-</Supported champs (28)>
+</Supported champs (29)>
   - Ahri.
   - Akali.
   - Anivia.
@@ -12,6 +12,7 @@
   - Cassiopeia.
   - Draven.
   - Ezreal.
+  - Illaoi.
   - Irelia.
   - Jinx.
   - Kai'sa.

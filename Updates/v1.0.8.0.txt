@@ -1,0 +1,30 @@
+<UPDATE 1.0.8.0>
+
+</Added>
+  - Illaoi.
+  - Evade: Added new AurelionSol spells
+
+</Changes>
+  - Caitlyn: 
+      + Fixed dont cast R for ks.
+      + Improve W logic.
+      + Fixed some menu layout.
+  - Kaisa: Improve W damage calc.
+  - Awaraness: 
+      + Radar tracker now its different.
+      + Ward range in low poly.
+      + Fixed ping alert on Baron and Herald.
+      + ^ now can be disabled.
+      + Added a glow to big and legendary mobs.
+  - Update skins to 13.3.1
+  - LOrbwalker: 
+      + Improve ground reaction drawing performance.
+      + Player attack range color could be rainbow. 
+      + Draw current orbwalker mode.
+  - All Champions:
+      + Improve spell pred drawing.
+  - Remove some debug things.
+  - New AIO logo by Maikii#2301.
+
+</Removed>
+  - Nothing.
