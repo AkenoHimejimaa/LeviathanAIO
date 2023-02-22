@@ -28,3 +28,14 @@
 
 </Removed>
   - Nothing.
+
+=================================================================================
+
+<MinorUpdate v1.0.8.1>
+
+</Changes>
+  - Awareness:
+      + Added 3 modes for Player AA range (RGB, Faded and static).
+      + Improve ground reaction performance.
+
+=================================================================================
