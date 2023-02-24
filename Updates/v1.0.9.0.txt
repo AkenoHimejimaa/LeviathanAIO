@@ -5,6 +5,7 @@
 
 </Changes>
   - Permashow dragging improve
+  - LOrbwalker drawing layout improve.
 
 </Removed>
   - Nothing.
