@@ -1,0 +1,28 @@
+<UPDATE 1.0.9.0>
+
+</Added>
+  - 13.4.1 Skins.
+
+</Changes>
+  - Permashow dragging improve
+  - LOrbwalker drawing layout improve.
+
+</Removed>
+  - Nothing.
+
+=================================================================================
+
+<MinorUpdate v1.0.9.1>
+
+</Added>
+  - Gangplank.
+  - Activator:
+      + DeffensiveItems: Gargoyle Stoneplate logic.
+      + OffensiveItems: Galeforce, Ironspike, GoreDrinker, 
+        Prowler's Claw, Youmuu, Everfrost, Hextech Rocketbelt.
+
+</Changes>
+  - Activator:
+      + Fixed cleaners use.
+      + Improve randuim logic.
+      + Improve performance
