@@ -26,3 +26,15 @@
       + Fixed cleaners use.
       + Improve randuim logic.
       + Improve performance
+
+=================================================================================
+
+<MinorUpdate v1.0.9.2>
+
+</Added>
+  - Thresh.
+  - Irelia: now u can see Q pathfinding to target pos.
+
+</Changes>
+  - All champions:
+      + Improve performance.
