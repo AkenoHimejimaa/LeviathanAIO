@@ -38,3 +38,19 @@
 </Changes>
   - All champions:
       + Improve performance.
+
+=================================================================================
+
+<MinorUpdate v1.0.9.3>
+
+</Added>
+  - Nothing
+
+</Changes>
+  - Kalista & Twitch: Fixed delay in E casting.
+  - Yasuo: 
+      + Fixed EQ flash.
+      + Added the option to no E on minion if pos after dash is under enemy turret.
+  - Evade: 
+      + Now u can see skillshot image in menu.
+      + Improve some evade logics.
