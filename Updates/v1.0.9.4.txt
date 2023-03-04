@@ -54,3 +54,13 @@
   - Evade: 
       + Now u can see skillshot image in menu.
       + Improve some evade logics.
+
+=================================================================================
+
+<MinorUpdate v1.0.9.4>
+
+</Added>
+  - Xayah.
+
+</Changes>
+  - Nothing.

@@ -1,6 +1,6 @@
 # LeviathanAIO
 
-</Supported champs (32)>
+</Supported champs (33)>
   - Ahri.
   - Akali.
   - Anivia.
@@ -30,6 +30,7 @@
   - Varus.
   - Vayne.
   - Viktor.
+  - Xayah.
   - Xerath.
   - Yasuo.
 
