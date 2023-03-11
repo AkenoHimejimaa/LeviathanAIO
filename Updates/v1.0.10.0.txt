@@ -1,0 +1,22 @@
+<UPDATE 1.0.10.0>
+
+</Added>
+  - All champion: Spell range could be a rainbow!
+
+</Changes>
+  - Irelia added E Leviathan logic (support multi target).
+  - Evade: 
+      + Pathfinding improve.
+  - Permashow draggin improve.
+  - LOrbwalker:
+      + Enemy range now its a arc instead a circle.
+      + RGB drawing mode change.
+  - Awaraness:
+      + Jungle tracker font color now are yellow.
+      + A lot of code optimization.
+  - Twitch updated damage to 13.5
+  - Ashe update damage to 13.5
+  - Skins update to 13.5
+
+</Removed>
+  - Nothing.
