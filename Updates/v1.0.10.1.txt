@@ -20,3 +20,16 @@
 
 </Removed>
   - Nothing.
+
+
+=================================================================================
+
+<MinorUpdate v1.0.10.1>
+
+</Added>
+  - Nothing.
+
+</Changes>
+  - Twitch fixed E damage.
+  - Fixed ExoryPred dont cast spells. 
+  - Xerath fixed R cancel.
